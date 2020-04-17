@@ -1,0 +1,12 @@
+﻿  NFAl in DFA.cpp
+c:\users\dimitrie vatra\onedrive\documents\facultate\materii\lfa\nfal in dfa\nfal in dfa\nfal in dfa.cpp(241): error C2065: 'Noduri': undeclared identifier
+c:\users\dimitrie vatra\onedrive\documents\facultate\materii\lfa\nfal in dfa\nfal in dfa\nfal in dfa.cpp(241): error C2227: left of '->Stari' must point to class/struct/union/generic type
+c:\users\dimitrie vatra\onedrive\documents\facultate\materii\lfa\nfal in dfa\nfal in dfa\nfal in dfa.cpp(241): error C2227: left of '->NrStari' must point to class/struct/union/generic type
+c:\users\dimitrie vatra\onedrive\documents\facultate\materii\lfa\nfal in dfa\nfal in dfa\nfal in dfa.cpp(241): error C2660: 'qsort': function does not take 3 arguments
+c:\users\dimitrie vatra\onedrive\documents\facultate\materii\lfa\nfal in dfa\nfal in dfa\nfal in dfa.cpp(242): error C2065: 'Noduri': undeclared identifier
+c:\users\dimitrie vatra\onedrive\documents\facultate\materii\lfa\nfal in dfa\nfal in dfa\nfal in dfa.cpp(242): error C2227: left of '->NrStari' must point to class/struct/union/generic type
+c:\users\dimitrie vatra\onedrive\documents\facultate\materii\lfa\nfal in dfa\nfal in dfa\nfal in dfa.cpp(244): error C2065: 'Noduri': undeclared identifier
+c:\users\dimitrie vatra\onedrive\documents\facultate\materii\lfa\nfal in dfa\nfal in dfa\nfal in dfa.cpp(244): error C2227: left of '->Stari' must point to class/struct/union/generic type
+c:\users\dimitrie vatra\onedrive\documents\facultate\materii\lfa\nfal in dfa\nfal in dfa\nfal in dfa.cpp(247): error C2065: 'Noduri': undeclared identifier
+c:\users\dimitrie vatra\onedrive\documents\facultate\materii\lfa\nfal in dfa\nfal in dfa\nfal in dfa.cpp(252): error C2086: 'int NrNoduri': redefinition
+  c:\users\dimitrie vatra\onedrive\documents\facultate\materii\lfa\nfal in dfa\nfal in dfa\nfal in dfa.cpp(7): note: see declaration of 'NrNoduri'
